@@ -1,2 +1,2 @@
 # hello-world
-meu primeiro repositório
+Eu sou iniciante e estou gostando de aprender.
